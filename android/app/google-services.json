@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "811251145334",
+    "firebase_url": "https://rnfcmdemo.firebaseio.com",
+    "project_id": "rnfcmdemo",
+    "storage_bucket": "rnfcmdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811251145334:android:1c291bfcc90f03f9",
+        "android_client_info": {
+          "package_name": "com.rnfcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811251145334-s2tka1eg29dt85b96a5t8un1cu6ibah7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_3iWYVuJH2bPcMEw_S_X3FzA_vmTlsaY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
